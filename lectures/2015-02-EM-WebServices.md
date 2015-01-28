@@ -20,8 +20,8 @@
 * Dashboard: Web Service concept
 
 ### Application Programing Interfaces (APIs)
-* [APIs](http://www.programmableweb.com/apis/directory) for client-site applications to access web services: mashups applications , portals, etc. 
+* [APIs](http://www.programmableweb.com/apis/directory) for client-side applications to access web services: mashups applications , portals, etc. 
 * Dashboard: API and mashup concept Web Service concept
-* 
+
 ## Additional online resources
 * [Cessare Pautasso](http://www.pautasso.info/)
