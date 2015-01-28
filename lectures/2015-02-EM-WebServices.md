@@ -13,6 +13,7 @@
 * Quiz: 
     * Baroque and Romannic art (guidelines)
     * [San Martin de Tours Church, Fromista](http://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_Tours_Church,_Fr%C3%B3mista) vs. [Cathedral of Santiago de Compostela](http://www.catedraldesantiago.es/) (implementation of such guidelines)
+
 ### Web services 
 * Video: [Web Services tutorial: What is a web service](https://www.youtube.com/watch?v=u80uPzhFYvc), by lynda.com. 
 * Video (optional): [WebServices Part 1 - Introduction (concept)](https://www.youtube.com/watch?v=J4-z_CUa87c)
