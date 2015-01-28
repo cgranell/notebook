@@ -1,4 +1,4 @@
-# lectures on OGC web services  
+# Lectures on OGC web services  
 * What: Resources and links for a couple of lectures about the introduction to OGC web services 
 * Date: 2 and 4 February 2015
 * Audience: Students of the [Erasmus Mundus Master of Science in Geospatial Technologies](http://mastergeotech.info/)  
@@ -15,5 +15,5 @@
 * Book: [Sistemas de Información Geográfica: Un libro de Victor Olaya](http://volaya.github.io/libro-sig/), up-to-date
 
 ## Additional online resources (in English)
-* Video: [Geospatial Revolution](http://geospatialrevolution.psu.edu/)Episodes, Penn State University
+* Video: [Geospatial Revolution](http://geospatialrevolution.psu.edu/) Episodes, Penn State University
 * Report: [What is the economic impact of Geo services](http://www.oxera.com/Latest-Thinking/Publications/Reports/2013/What-is-the-economic-impact-of-Geo-services.aspx), by Oxera, 2013
