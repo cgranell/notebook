@@ -1,0 +1,14 @@
+# lectures on ESRI REST Web services   
+* What: Resources and links for a couple of lectures about the introduction to resource-oriented architectures and ESRI REST web services 
+* Date: 9 and 11 February 2015
+* Audience: Students of the [Erasmus Mundus Master of Science in Geospatial Technologies](http://mastergeotech.info/)  
+
+## Outline
+### Resource-oriented architectures
+
+### ESRI REST web services
+
+
+## Additional online resources
+
+
