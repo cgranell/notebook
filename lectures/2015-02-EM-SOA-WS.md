@@ -1,8 +1,8 @@
-# Title
+# Introduction to SOA and web services
 
-Introduction to SOA and web services
 * Date: 2 and 4 February 2015
 * Audience: Students of the [Erasmus Mundus Master of Science in Geospatial Technologies](http://mastergeotech.info/)  
+[Remarkise me!](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/cgranell/notebook/master/lectures/2015-02-EM-SOA-WS.md)
 
 ---
 
@@ -23,8 +23,12 @@ Introduction to SOA and web services
     * abstraction, encapsulation, resue, flexibility, decoupling...
 * Video (optional): [SOA Concepts](https://www.youtube.com/watch?v=Suf5FbTT7T8). More formal explanation from a university professor.
 
+---
+
 # Service-oriented architectures
 * Video: [What's middleware? Business Process Management](https://www.youtube.com/watch?v=OPY86RHTD8Q)
+
+---
 
 # Service-oriented architectures
 * Blackboard: 
