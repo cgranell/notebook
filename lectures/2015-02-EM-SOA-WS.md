@@ -5,7 +5,7 @@
 [Remarkise me!](https://gnab.github.io/remark/remarkise?url=https://raw.githubusercontent.com/cgranell/notebook/master/lectures/2015-02-EM-SOA-WS.md)
 
 ---
-
+class: center, middle
 ## Resources and links about SOA, web services, and the concept of service
 
 ---
@@ -103,8 +103,10 @@ Web Service request and response example
 
 # SOC - Discussion
 
-* Who benefits from  SOA, SOC, etc?
-* more questions here?
+* Did final users benefit in using/exploiting services?
+* Did developers gain in devleopn applications?
+* Did industry benefit?
+* Who actually benefited from the irruption of SOA, SOC, etc?
 
 ---
 
