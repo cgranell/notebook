@@ -21,11 +21,14 @@
 
 # Who I am? 
 
+http://www.geotec.uji.es/staff/#carlos-granell
+http://www3.uji.es/~canut/
 ---
 
 # SOA - What is it?
-*Service-oriented*: All is about services
-*Architecture*: guidelines, styles, way of doing things
+**Service-oriented** means all is about services
+
+**Architecture** means guidelines, styles, way of doing things
 
 * Video: [What's middleware? Service oriented architecture explained](https://www.youtube.com/watch?v=7s_S5Hkm7z0). John explained us that the transit pass is indeed a `public service interface` for customers
 * Video (optional): [SOA Concepts](https://www.youtube.com/watch?v=Suf5FbTT7T8). More formal explanation from a university professor.
@@ -33,7 +36,7 @@
 ---
 
 # SOA - Characteristics 
-Services are building blocks that expose the following characteristics:
+Services are `building blocks` that expose the following characteristics:
 * abstraction, 
 * encapsulation, 
 * reuse, 
@@ -57,14 +60,21 @@ Services are building blocks that expose the following characteristics:
 
 # Web Services - Characteristics
 Like Html5, Web services refer actually to a set of specifications called [Web Services protocol stack](http://www.w3.org/TR/2002/WD-ws-arch-20021114/#extended)
+
 * Description: WSDL
 * Transport: SOAP
 * Discovery: UDDI
-* ...: ...
+* and many others ...: ...
 
 # Web Services - Discussion
 
-Web Service request and response 
+Web Service request and response example
+
+---
+
+# SOC - What is it?
+
+ SOC uses `services` as the basic constructs to support the development of rapid, low-cost and easy `composition` of distributed applications [Papazoglou et al, 2013](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A584B4950C4A2C15F2428E1E10475057?doi=10.1.1.76.3917&rep=rep1&type=pdf)
 
 ---
 
@@ -74,17 +84,21 @@ Web Service request and response
 
 ---
 
-# SOC - What is it?
+# SOC - Patterns
 
- SOC uses *services* as the basic constructs to support the development of rapid, low-cost and easy *composition* of distributed applications [Papazoglou et al, 2013](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A584B4950C4A2C15F2428E1E10475057?doi=10.1.1.76.3917&rep=rep1&type=pdf)
-* Patterns
-    - Discover
-    - Compose
-    - Describe
-    - Execute
-    - Manage
-    - ....
+* Describe
+* Register
+* Discover
+* Compose
+* Execute
+* Manage
+* Monitor
+*  ... (+ semantics)
 
+# SOC - Discussion
+
+* Who benefits from  SOA, SOC, etc?
+* more questions here?
 ---
 
 # Application Programing Interfaces (APIs)
