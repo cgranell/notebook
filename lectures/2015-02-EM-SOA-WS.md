@@ -21,8 +21,10 @@
 
 # Who I am? 
 
-http://www.geotec.uji.es/staff/#carlos-granell
-http://www3.uji.es/~canut/
+[GEOTEC research group](http://www.geotec.uji.es/staff/#carlos-granell)
+
+[home page](http://www3.uji.es/~canut/)
+
 ---
 
 # SOA - What is it?
@@ -66,6 +68,8 @@ Like Html5, Web services refer actually to a set of specifications called [Web S
 * Discovery: UDDI
 * and many others ...: ...
 
+---
+
 # Web Services - Discussion
 
 Web Service request and response example
@@ -95,10 +99,13 @@ Web Service request and response example
 * Monitor
 *  ... (+ semantics)
 
+---
+
 # SOC - Discussion
 
 * Who benefits from  SOA, SOC, etc?
 * more questions here?
+
 ---
 
 # Application Programing Interfaces (APIs)
