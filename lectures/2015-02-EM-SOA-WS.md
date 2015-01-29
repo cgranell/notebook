@@ -1,4 +1,4 @@
-# Introduction to SOA and web services
+# Notes on SOA and web services
 
 * Date: 2 and 4 February 2015
 * Audience: Students of the [Erasmus Mundus Master of Science in Geospatial Technologies](http://mastergeotech.info/)  
@@ -6,11 +6,20 @@
 
 ---
 
+## Resources and links about SOA, web services, and the concept of service
+
+---
 # Outline
 
-1. Who I am? 
-2. Service-oriented architectures
-3. Web Serivces
+* Who I am? 
+* Service-oriented architecture
+    - What is it?
+    - Characteristics
+    - 
+* Web services
+* Service-oriented computing  
+    - What is it?
+    - Characteristics
 
 ---
 
@@ -18,22 +27,36 @@
 
 ---
 
-# Service-oriented architectures
-* Video: [What's middleware? Service oriented architecture explained](https://www.youtube.com/watch?v=7s_S5Hkm7z0). John explained us that the transit pass is indeed a `public service interface` for customers:
-    * abstraction, encapsulation, resue, flexibility, decoupling...
+# SOA - What is it?
+*Service-oriented*: All is about services
+*Architecture*: guidelines, styles, way of doing things
+
+* Video: [What's middleware? Service oriented architecture explained](https://www.youtube.com/watch?v=7s_S5Hkm7z0). John explained us that the transit pass is indeed a `public service interface` for customers
 * Video (optional): [SOA Concepts](https://www.youtube.com/watch?v=Suf5FbTT7T8). More formal explanation from a university professor.
 
 ---
 
-# Service-oriented architectures
+# SOA - Characteristics 
+Services are building blocks that expose the following characteristics:
+* abstraction, 
+* encapsulation, 
+* resue, 
+* flexibility, 
+* decoupling...
+
+---
+
+# SOA - Discussion
+
+* Baroque vs. Romanic art (guidelines)
+* [San Martin de Tours Church, Fromista](http://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_Tours_Church,_Fr%C3%B3mista) vs. [Cathedral of Santiago de Compostela](http://www.catedraldesantiago.es/) (implementation of such guidelines)
+
+# SOA - Service-oriented architectures
 * Video: [What's middleware? Business Process Management](https://www.youtube.com/watch?v=OPY86RHTD8Q)
 
 ---
 
-# Service-oriented architectures
-* Blackboard: 
-    * Baroque and Romannic art (guidelines)
-    * [San Martin de Tours Church, Fromista](http://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_Tours_Church,_Fr%C3%B3mista) vs. [Cathedral of Santiago de Compostela](http://www.catedraldesantiago.es/) (implementation of such guidelines)
+
 
 ---
 
