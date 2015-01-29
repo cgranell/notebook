@@ -13,13 +13,9 @@
 
 * Who I am? 
 * Service-oriented architecture
-    - What is it?
-    - Characteristics
-    - 
 * Web services
 * Service-oriented computing  
-    - What is it?
-    - Characteristics
+* APIs to access client
 
 ---
 
@@ -40,7 +36,7 @@
 Services are building blocks that expose the following characteristics:
 * abstraction, 
 * encapsulation, 
-* resue, 
+* reuse, 
 * flexibility, 
 * decoupling...
 
@@ -51,23 +47,43 @@ Services are building blocks that expose the following characteristics:
 * Baroque vs. Romanic art (guidelines)
 * [San Martin de Tours Church, Fromista](http://en.wikipedia.org/wiki/San_Mart%C3%ADn_de_Tours_Church,_Fr%C3%B3mista) vs. [Cathedral of Santiago de Compostela](http://www.catedraldesantiago.es/) (implementation of such guidelines)
 
-# SOA - Service-oriented architectures
-* Video: [What's middleware? Business Process Management](https://www.youtube.com/watch?v=OPY86RHTD8Q)
-
 ---
 
-
-
----
-
-# Web services 
+# Web services - What is it?
 * Video: [Web Services tutorial: What is a web service](https://www.youtube.com/watch?v=u80uPzhFYvc), by lynda.com. 
 * Video (optional): [WebServices Part 1 - Introduction (concept)](https://www.youtube.com/watch?v=J4-z_CUa87c)
 
 ---
 
-# Web Services
-* Dashboard: Web Service concept
+# Web Services - Characteristics
+Like Html5, Web services refer actually to a set of specifications called [Web Services protocol stack](http://www.w3.org/TR/2002/WD-ws-arch-20021114/#extended)
+* Description: WSDL
+* Transport: SOAP
+* Discovery: UDDI
+* ...: ...
+
+# Web Services - Discussion
+
+Web Service request and response 
+
+---
+
+# SOC - What is it?
+
+* Video: [What's middleware? Business Process Management](https://www.youtube.com/watch?v=OPY86RHTD8Q)
+
+---
+
+# SOC - What is it?
+
+ SOC uses *services* as the basic constructs to support the development of rapid, low-cost and easy *composition* of distributed applications [Papazoglou et al, 2013](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=A584B4950C4A2C15F2428E1E10475057?doi=10.1.1.76.3917&rep=rep1&type=pdf)
+* Patterns
+    - Discover
+    - Compose
+    - Describe
+    - Execute
+    - Manage
+    - ....
 
 ---
 
@@ -79,6 +95,7 @@ Services are building blocks that expose the following characteristics:
 # Dashboard: API and mashup concept Web Service concept
 
 ---
+
 
 # Additional online resources
 * [Cessare Pautasso](http://www.pautasso.info/)
