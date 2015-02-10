@@ -1,4 +1,4 @@
-# Lectutres
+# Lectures
 
-Some notes turned into slides about some lectures I've done. 
+Notes about topics I've lectured turned into slides. 
 
