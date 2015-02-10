@@ -1,9 +1,10 @@
 # 37signals
 
 ## Rework
-Clear writing leads to clear thinking
-Stories, mockups are just approximations. Running software is real.
-Real things lead to real reactions.
+Tis is more a business  book than a technical book. It gieves short recipes to enhance one's way of working and to thinking in practical and pragmatic terms. Some remarkable sentences: 
+* Clear writing leads to clear thinking
+* Stories, mockups are just approximations. Running software is real.
+* Real things lead to real reactions.
 
 ## Get real
 It contains a list of hints / recipes for success organized in categories for creating web applications / services. Rather than a technical book, the authors focus on short pieces of advice, some of them are quite obvious and make perfect sense at firt glance, but most developers actually fail to get them into their app development process. One learns to focus on the essentials first to get work done. A must-read book together with the rework book.
