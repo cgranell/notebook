@@ -2,7 +2,7 @@
 
 Besides applied research I am also interested in science communication. I believe scientists are responsible for promoting and explaining science to the public and media. Spatial thinking and education may be a good start. Let us see where this is heading.
 
-*Keywords*: spatial thinking, scratch, ..
+*Keywords*: spatial thinking, scratch, visualizations for kids...
 
 ## Online resources 
 
