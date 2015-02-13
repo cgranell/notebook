@@ -18,7 +18,10 @@ Besides applied research I am also interested in science communication. I believ
 ### Ideas for young people 
 * [Teaching Ideas](http://www.teachingideas.co.uk/)
 * [Parenting Science](http://www.parentingscience.com/)
-* [Earth Learning Ideas](http://www.earthlearningidea.com/), Earth-related teaching ideas 
+* [Earth Learning Ideas](http://www.earthlearningidea.com/), Earth-related teaching ideas
+* [EducaLab](http://educalab.es/home)
+* [Cedec](http://cedec.ite.educacion.es/)
+
 
 ### Scientific blogs / press
 * [Spanish Edition of Scientific American](http://www.investigacionyciencia.es/blogs/ultimos-articulos)
