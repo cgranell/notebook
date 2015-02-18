@@ -75,3 +75,51 @@ Analytics-based decision making in six steps: 
 * Collect the data: Gather primary and secondary data on the hypothesized variables.
 * Analyse the data: Run a statistical model, assess its appropriateness for the data, and repeat the process until a good fit is found.
 * Present and act on the results: Use the data to tell a story to decision makers and stakeholders so that they will take action.
+
+## Future Internet
+*The Future of the Internet - And how to Stop it, by Jonathan Zittrain*
+
+Features of a **generative system**: leverage, adaptability, ease of mastery, accessibility, amd transferability. (pg 71)
+
+## Elemento
+*El Elemento, by Ken Robinson*
+
+El elemento es el punto de encuentro entre las aptitudes naturales y las inclinaciones personales (pg 39). Las personas hacen lo que les gusta y al hacerlo se sienten realmente ellos mismos: les parece que el tiempo transcurre de manera diferente y se sienten más vivos, más centrados y llenos de vida que en cualquier otro momento. 
+
+El elemento tiene dos características, **capacidad** y **vocación**, y dos condiciones, **actitud** y **oportunidad**, para estar en él. Algo así como: lo entiendo, me encanta, lo quiero, ¿dónde está?
+
+## Fluir
+*Fluir, by Mihail Csikszentmihalyi*
+
+La diferencia entre alguien que disfruta la vida y alguien que está abrumado por ella, es producto de la combinación entre factores externos y la manera en que la persona los interpreta, es decir, si ve los desafios como amenazas o como oportunidades para la acción.
+
+Modelo de flujo: 1) Definir las propias metas, no por fuerzas externas; 2) Sentirse inmerso en la actividad; 3) Pretar atención a lo que está sucediendo; 4) Aprender a disfrutar de la experiencia inmediata.
+
+Antes de invertir grandes cantidades de energía en una meta, vale la pena hacerse esta pregunta fundamental: ¿esto es algo que yo realmente quiero hacer? ¿Es algo con lo que disfruto haciéndolo?, ¿Lo disfrutaré probablemente en el futuro? ¿El precio que yo y lo demás tendrán que pagar por ello vale la pena?
+
+Los proyectos auténticos están motivados intrínsicamente, se eligen por lo que valen en sí mismos; los inauténticos están motivados por fuerzas externas.
+
+## Excendente cognitivo
+*Excedente Cognitivo: creatividad y generosidad en la era conectada, by Clay Shirky*
+
+La tesis de este autor es afirmar que vivimos una época de excedente en intelecto, energía y tiempo. Gracias a que los nuevos medios de comunicacion han eliminado las barreras de entrada para producir, compartir e intercambiar information, debemos aprovechar estos medios para crear valores públicos y cívicos. La combinación de medios, motivos y oportunidades crean nuestro excedente cognitivo.
+
+Chapter 2: El psicólogo Edward Deci habla de motivaciones intrinsecas y extrínsecas y de una teor'ia que puede explicar un poco más el comportamiento humano, o al menos puede explicar alguna de las cosas que particularmente hago y cual es la motivación que hay detrás de parte de mi trabajo. La teoría de la motivación autodeterminada o [Self determination theory](http://en.wikipedia.org/wiki/Self-determination_theory) (SDT). Uno de los descubrimientos mas sorprendentes es que las personas que son motivadas intrínsecamente, si en el momento de realizar las tareas se les recompensa, por ejemplo, con dinero, dejan de estar interesados por seguir realizándola. Ser amateur, desvinculados de los profesionales por su habilidad, pero cuya motivación es tambien intrínseca. Ser amateur es hacer algo por amor al arte.
+
+Chapter 4: La inovacion impulsada por los usuarios avnazados. Partiendo del hecho que las capacidades de una herramienta no deteminan completamente sus funcionales finales, los usuarios (como grupo) pueden emplear un utensilio de un modo que los diseñadores nunca habrían imaginado. Tambien aqui
+
+Chapter 5: El intercambio en sí es una característica humana, no tecnológica (p.172)
+
+## Wikinomics
+*Wikinomics: how mass collaboration changes everything, by Anthony D. Williams*
+
+Las tecnologias que cambian el mundo nada más aparecer son las que son simples e imprevistas, y surgen desde la base y no desde los reconditos despachos de los estrategas empresariales.
+
+## Medici effect
+*The Medici Effect, by Frans Johansson*
+
+"By breaking down associative barriers and stepping into the intersection between fields, the number of available idea combinations increases beyond anything we can achieve in a single area. This, then, explains why diverse teams can be more creative than homogeneous groups. It explains why diversifying occupations can increase our output of exceptional ideas. The intersection of fields not only provides the perfect environment for widely different ideas to come together, it also makes it possible for lots of different ideas to do so."
+
+
+
+
