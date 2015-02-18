@@ -29,7 +29,7 @@
 4. (2013) [The Fourth Paradigm, Data-intensive Scientific Discovery](http://research.microsoft.com/en-us/collaboration/fourthparadigm/), edited by Tony Hey, Stewart Tansley, and Kristin Tolle, 2009
 2. (2013) Social Network Analysis for Start ups, by Maksim Tsvetovat and Alenxander Kouznetsov
 1. (2013) Myths of Innovation, by Scott Berkun.
-4. (2013) Excedente Cognitivo: creatividad y generosidad en la era conectada, by Clay Shirky. See [notes](books-notes.md#excedente cognitivo)
+4. (2013) Excedente Cognitivo: creatividad y generosidad en la era conectada, by Clay Shirky. See [notes](books-notes.md#excedente-cognitivo)
 5. (2012) Tim O'Reilly in a nutshell, by Tim O'Reilly
 6. (2012) Índice de Impacto, by Jordi Jordana.
 2. (2012) Cómo crece tu bebé, by Clarie Halsey.
