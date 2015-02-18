@@ -99,7 +99,7 @@ Antes de invertir grandes cantidades de energía en una meta, vale la pena hacer
 
 Los proyectos auténticos están motivados intrínsicamente, se eligen por lo que valen en sí mismos; los inauténticos están motivados por fuerzas externas.
 
-## Excendente cognitivo
+## Excedente cognitivo
 *Excedente Cognitivo: creatividad y generosidad en la era conectada, by Clay Shirky*
 
 La tesis de este autor es afirmar que vivimos una época de excedente en intelecto, energía y tiempo. Gracias a que los nuevos medios de comunicacion han eliminado las barreras de entrada para producir, compartir e intercambiar information, debemos aprovechar estos medios para crear valores públicos y cívicos. La combinación de medios, motivos y oportunidades crean nuestro excedente cognitivo.
