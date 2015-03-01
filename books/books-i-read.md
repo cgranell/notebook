@@ -2,6 +2,7 @@
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 1. (...) [Data visualization: a successful design process](http://www.visualisingdata.com/index.php/book/), by Andy Kirk, Packt Publishing, 2012
 2. (...) El Elemento, by Ken Robinson, Connecta, 2012
+3. (...) [Becoming a better programmer](http://shop.oreilly.com/product/0636920033929.do), by Pete Goodliffe, O'Reilly, 2014
 3. (2015) [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do), by Douglas Crockford, O'Reilly, 2008
 1. (2015) [Getting real](https://gettingreal.37signals.com/toc.php), by 37signals, 2006. See [notes](books-notes.md#get-real)
 1. (2015) [Rework](http://37signals.com/rework/), by Jason Fried & David Heinemeier Hansson, Vermilion London, 2010. See [notes](books-notes.md#rework)
