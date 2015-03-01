@@ -2,11 +2,13 @@
 
 More and more geospatial information is being visualised. This means lots of maps but not just maps. Finfi original ways to visualize data is a kind of mixing storytelling, programming skills, and good design, and...
 
-Francisco and myself are going to explore a bit novel geospatial visualization designs. Research notes will be recorderd here.  
+We are going to explore how to create novel geospatial visualization designs. Research notes will be recorded here.  
 
 *Keywords*: geospatial  visualization, storytelling, ...
 
 ## Planing and scoping  
+
+Start off with a dataset or with a question (and then fidn appropiate dataset). Tehe idea of creating an **Atlas of UJI** seems interesting, inprire by the MIT Social Computing group's project [You are here](http://youarehere.cc/#/). 
 
 * What is the target audience
 * What is the hte function of our visualization design?
@@ -16,7 +18,6 @@ Francisco and myself are going to explore a bit novel geospatial visualization d
     * Pragmatic and analytical 
     * Emotive and abstract
 
-Start off with a dataset or with a questio (and then fidn appropiate dataset) 
 
 ## Online resources 
 * Blog post: [Geo Prognostications for 2015](http://www.vicchi.org/2015/01/29/geo-prognostications-for-2015/)
