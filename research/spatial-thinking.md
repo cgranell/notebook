@@ -21,6 +21,7 @@ Besides applied research I am also interested in science communication. I believ
 * [Earth Learning Ideas](http://www.earthlearningidea.com/), Earth-related teaching ideas
 * [EducaLab](http://educalab.es/home)
 * [Cedec](http://cedec.ite.educacion.es/)
+* [Schoolzilla](https://schoolzilla.org/)
 
 
 ### Scientific blogs / press
