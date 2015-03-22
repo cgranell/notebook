@@ -1,7 +1,8 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+2. (...) [Here comes everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948), by Clay Shirky, Penguin Books, 2009
 1. (...) [Data visualization: a successful design process](http://www.visualisingdata.com/index.php/book/), by Andy Kirk, Packt Publishing, 2012
-2. (...) El Elemento, by Ken Robinson, Connecta, 2012
+2. (2015) El Elemento, by Ken Robinson, Connecta, 2012
 3. (2015) [Becoming a better programmer](http://shop.oreilly.com/product/0636920033929.do), by Pete Goodliffe, O'Reilly, 2014
 3. (2015) [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do), by Douglas Crockford, O'Reilly, 2008
 1. (2015) [Getting real](https://gettingreal.37signals.com/toc.php), by 37signals, 2006. See [notes](books-notes.md#get-real)
