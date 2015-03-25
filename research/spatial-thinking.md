@@ -22,6 +22,7 @@ Besides applied research I am also interested in science communication. I believ
 * [EducaLab](http://educalab.es/home)
 * [Cedec](http://cedec.ite.educacion.es/)
 * [Schoolzilla](https://schoolzilla.org/)
+* [Applications Prototype Lab](http://blogs.esri.com/esri/apl/), worth exploring: [GeoJigsaw](http://blogs.esri.com/esri/apl/2014/11/18/geojigsaw/) and [Map Quiz](http://blogs.esri.com/esri/apl/2014/11/17/map-quiz/)
 
 
 ### Scientific blogs / press
