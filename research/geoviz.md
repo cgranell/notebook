@@ -27,3 +27,4 @@ Start off with a dataset or with a question (and then find appropiate dataset). 
 * Book: [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345), by Scott Murray, O'Reilly, 2013
 * Book: [Learning D3.js Mapping](https://www.packtpub.com/web-development/learning-d3js-mapping), by Thomas Newton and Oscar Villarreal, Packt Publishing, 2014
 * Book: [Data Visualization with D3.js Cookbook](http://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X/)
+* Book: [ Visualization with JavaScript](http://shop.oreilly.com/product/9781593276058.do)
