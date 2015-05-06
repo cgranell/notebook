@@ -1,5 +1,9 @@
 # Books notes
 
+## Here comes everybody
+*Here comes everybody, by Clay Shirky*
+
+
 ## Get real
 *Get real, by 37signals*
 
