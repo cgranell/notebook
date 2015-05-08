@@ -3,7 +3,20 @@
 ## Here comes everybody
 *Here comes everybody, by Clay Shirky*
 
+p109 personal motivation meets collaborative production
+p112 flexibility of role is a commom result of mass amateurization
+p117 Spontaneous, unmanaged division of labor, plus publish, then filter approach, plus being effective without worrying about being efficient, plus
+worse is better, in the sense that many people are willing to make a bad article better than are willing to start from scratch
 
+p122 a predictable imbalance links to "Open Collaboration" paper (Fig 5). Social participation in large-scale systems exhibit a similar pattern described by a power law distribution (frequency of occurrence). Most large social experiments are engines for harnessing inequalities rather than limiting it --> imbalance drives large social systems of interacting elements. 
+
+p212 Small World pattern is descrbied in locally densed clusters inside large-scale social systems 
+
+p266 Success story is composed of plausible promise, an effective tool, and an acceptable bargain with the users.
+* promise: *why* for everuone to join, thats basic desire to participate. the promise convinces a potential user to become an actual user. Rather than "Buy OCT", the message should be "Join us , and we will create OCT together"
+* tools: there are only good tools for particular jobs, not for any job. Tools must help people do something that actually want to do. There are two basic cosntraints fo group actions, i/ number of people involved, and ii/ duration of interaction, which defide how a tool fits the purpose of the promise
+* bargain: it has to be part of the lived experiences of intereaction betwen users. 
+* 
 ## Get real
 *Get real, by 37signals*
 
