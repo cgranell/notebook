@@ -1,7 +1,9 @@
 # Books I read
-1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+2. (...) [Creative Schools](http://sirkenrobinson.com/creative-schools-the-grassroots-revolution-thats-transforming-education/), by [Ken Robinson](http://sirkenrobinson.com/), Penguin Random House, 2015
+3. (2015) [Visual Storytelling with D3](http://ritchiesking.com/book/), by Ritchie S. King, Addison Wesley, 2014
 2. (...) [Developing a D3.js Edge](http://bleedingedgepress.com/our-books/developing-a-d3-js-edge/), by Chris Viau, Andrew Thornton, Ger Hobbelt, and Roland Dunn, Bleeding Edge Press, 2014
-2. (2015) [Cibermetría. Midiendo el espacio red](http://www.elprofesionaldelainformacion.com/EPIScholar/cibermetria-espacio-red.html), by Enrique Orduña-Malea and Isidro F.- Aguilo, UOC, 2014
+2. (2015) [Cibermetría. Midiendo el espacio red](http://www.elprofesionaldelainformacion.com/EPIScholar/cibermetria-espacio-red.html), by Enrique Orduña-Malea and Isidro F. Aguillo, UOC, 2014
 2. (2105) [Here comes everybody: The Power of Organizing Without Organizations](http://www.amazon.com/Here-Comes-Everybody-Organizing-Organizations/dp/0143114948), by Clay Shirky, Penguin Books, 2009. See [notes](books-notes.md#here-comes-everybody)
 1. (2015) [Data visualization: a successful design process](http://www.visualisingdata.com/index.php/book/), by Andy Kirk, Packt Publishing, 2012
 2. (2015) El Elemento, by Ken Robinson, Connecta, 2012
