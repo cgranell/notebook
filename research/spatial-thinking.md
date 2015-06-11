@@ -27,6 +27,7 @@ Besides applied research I am also interested in science communication. I believ
 * [Schoolzilla](https://schoolzilla.org/)
 * [Applications Prototype Lab](http://blogs.esri.com/esri/apl/), worth exploring: [GeoJigsaw](http://blogs.esri.com/esri/apl/2014/11/18/geojigsaw/) and [Map Quiz](http://blogs.esri.com/esri/apl/2014/11/17/map-quiz/)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci?imm_mid=0d1415&cmp=em-prog-na-na-newsltr_20150502)
+* [NASA Space Place](http://spaceplace.nasa.gov/)
 
 
 ### Scientific blogs / press
