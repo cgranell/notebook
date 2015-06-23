@@ -35,3 +35,4 @@ Besides applied research I am also interested in science communication. I believ
 * [SINC](http://www.agenciasinc.es/)
 * [EuroScientist](http://www.euroscientist.com/)
 * Blog post: [Educar en el presente pensando en el futuro: cómo renovar nuestro sistema educativo](http://www.huffingtonpost.es/carmen-saavedra/educar-en-el-presente_b_7520150.html)
+* Blog post: [Revolución en las redes por los deberes para el verano de un profesor italiano](http://www.abc.es/tecnologia/redes/20150614/abci-facebook-examen-profesor-italiano-201506141630.html)

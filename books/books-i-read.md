@@ -1,5 +1,7 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+2. (...) Digital Humanitarians, by Patrick Meier, CRC Press, 2015
+2. (2015) Economía sin corbata, by Yanis Varoufakis, Destino, 2015
 2. (2015) [Creative Schools](http://sirkenrobinson.com/creative-schools-the-grassroots-revolution-thats-transforming-education/), by [Ken Robinson](http://sirkenrobinson.com/), Penguin Random House, 2015
 3. (2015) [Visual Storytelling with D3](http://ritchiesking.com/book/), by Ritchie S. King, Addison Wesley, 2014
 2. (2015) [Developing a D3.js Edge](http://bleedingedgepress.com/our-books/developing-a-d3-js-edge/), by Chris Viau, Andrew Thornton, Ger Hobbelt, and Roland Dunn, Bleeding Edge Press, 2014
