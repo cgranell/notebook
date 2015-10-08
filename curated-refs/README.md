@@ -1,1 +1,0 @@
-# Curated list of references and articles on GI topics 
