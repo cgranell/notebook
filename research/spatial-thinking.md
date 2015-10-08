@@ -1,4 +1,4 @@
-# Spatial thinking in science communication and education
+# Spatial thinking for kids, education and science communication
 
 Besides applied research I am also interested in science communication. I believe scientists are responsible for promoting and explaining science to the public and media. Spatial thinking and education may be a good start. Let us see where this is heading.
 
@@ -28,6 +28,7 @@ Besides applied research I am also interested in science communication. I believ
 * [Applications Prototype Lab](http://blogs.esri.com/esri/apl/), worth exploring: [GeoJigsaw](http://blogs.esri.com/esri/apl/2014/11/18/geojigsaw/) and [Map Quiz](http://blogs.esri.com/esri/apl/2014/11/17/map-quiz/)
 * [40 Key Computer Science Concepts Explained In Layman’s Terms](http://carlcheo.com/compsci?imm_mid=0d1415&cmp=em-prog-na-na-newsltr_20150502)
 * [NASA Space Place](http://spaceplace.nasa.gov/)
+* [Digimap for Schools](http://digimapforschools.edina.ac.uk/), is an online mapping service for use by teachers and pupil.
 
 
 ### Scientific blogs / press
