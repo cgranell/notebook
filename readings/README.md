@@ -30,8 +30,6 @@ A curated list of awesome AWS libraries, open source repos, guides, blogs, and o
 
 ## Others
 
-*Readings list on GIScience.*
-
 ### Awesomes's
 
 * [Awesome](https://github.com/sindresorhus/awesome) *A curated list of awesome lists*
