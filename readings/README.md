@@ -8,19 +8,15 @@
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
 
-
-
 ## Index
-
-
-* [GIScience](#giscience.md)
+* [GIScience](#giscience)
 * Spatial analysis
 * Geospatial information infrastructures
 * Geoprocessing on the web
 * Urban informatics
 * Geospatial technologies, tools and frameworks
 * GIS for Social Sciences
-* [Others](#othresdks-and-samples)
+* [Others](#others)
     * [Awesome's](#awesome)
 
 
@@ -38,7 +34,7 @@ A curated list of awesome AWS libraries, open source repos, guides, blogs, and o
 
 ### Awesomes's
 
-* [Awesome](https://github.com/awslabs/aws-sdk-cpp)
+* [Awesome](https://github.com/sindresorhus/awesome) *A curated list of awesome lists*
 * [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 *A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.*
 
