@@ -29,3 +29,7 @@ Start off with a dataset or with a question (and then find appropiate dataset). 
 * Book: [Learning D3.js Mapping](https://www.packtpub.com/web-development/learning-d3js-mapping), by Thomas Newton and Oscar Villarreal, Packt Publishing, 2014
 * Book: [Data Visualization with D3.js Cookbook](http://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X/)
 * Book: [ Visualization with JavaScript](http://shop.oreilly.com/product/9781593276058.do)
+
+## Dataviz tools
+* [MIT DataCollider](http://datacollider.io/):  web-based tools for easy-to-understand graphical pathway that makes transforming data and building visualisations possible with minimal knowledge of data science or visualisations.
+* [Mirador](http://fathom.info/mirador/): open source tool for visual exploration of complex data sets. It enables users to discover correlation patterns and derive new hypotheses from the data

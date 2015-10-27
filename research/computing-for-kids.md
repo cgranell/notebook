@@ -12,14 +12,3 @@ Besides applied research I am also interested in science communication. I believ
 
 ### Reports / projects
 * [Horizon Report Europe: 2014 Schools Edition](https://ec.europa.eu/jrc/sites/default/files/2014-nmc-horizon-report-eu-en_online.pdf). Luxembourg: Publications Office of the European Union, & Austin, Texas: The New Media Consortium, 2015.
-
-
-### Journals  
-* [Atlas, research for a better world](http://www.elsevier.com/atlas)
-* [Frontiers for Young Minds](http://kids.frontiersin.org/)
-
-### Ideas for young people 
-
-
-
-### Scientific blogs / press
