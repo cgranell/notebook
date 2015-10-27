@@ -35,4 +35,5 @@ A curated list of awesome AWS libraries, open source repos, guides, blogs, and o
 * [Awesome](https://github.com/sindresorhus/awesome) *A curated list of awesome lists*
 * [Awesome AWS](https://github.com/donnemartin/awesome-aws)
 *A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources.*
+* [data-science-ipython-notebooks](https://bit.ly/data-notes)*Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines*
 
