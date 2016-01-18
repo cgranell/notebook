@@ -1,5 +1,7 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+2. (...) [London: The Information Capital](http://theinformationcapital.com/), by Jame Cheshire and Oliver Uberti, Penguin Books, 2014.
+2. (2016) [An Introduction to R for Spatial Analysis and Mapping](https://uk.sagepub.com/en-gb/eur/an-introduction-to-r-for-spatial-analysis-and-mapping/book241031), by Chris Brunsdon and Lex Comber, Sage, 2015. See [notes](books-notes.md#R-for-spatial-analysis)
 2. (2016) The Circle, by Dave Eggers, Penguin Books, 2013
 2. (2015) Turing La computación, by Rafael Lahoz-Beltra, National Geographic, 2012 
 2. (2015) [Open: How we'll work, live and learn in the future](http://engagedlearning.co.uk/), by David Price, Crux Publishing, 2013 

@@ -1,5 +1,15 @@
 # Books notes
 
+This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
+
+
+## R for spatial analysis
+*An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber*
+
+### The book in three sentences
+
+### Summary
+
 ## Here comes everybody
 *Here comes everybody, by Clay Shirky*
 
