@@ -1,5 +1,9 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014
+3. (...) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014
+2. (...) Akka in Action, by Raymond Roestenburg and Rob Bakker and rob Williams, Manning, 2015.
+3. (...) Why, by ...
 2. (2016) [Data Visualization with D3.js Cookbook](http://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X), by Nick Qi Zhu, Packt Publishing, 2013. 
 2. (2016) Web Application Development with R Using Shiny, by Chris Beeley, Packt Publishing, 2013. 
 2. (2016) [London: The Information Capital](http://theinformationcapital.com/), by Jame Cheshire and Oliver Uberti, Penguin Books, 2014.
