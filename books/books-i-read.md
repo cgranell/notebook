@@ -4,6 +4,7 @@
 3. (...) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014
 2. (...) Akka in Action, by Raymond Roestenburg and Rob Bakker and rob Williams, Manning, 2015.
 3. (...) Why, by ...
+4. (2016) Reactive Microservices Architecture, by Jonas Bonér. O’Reilly Media, 2016
 2. (2016) [Data Visualization with D3.js Cookbook](http://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X), by Nick Qi Zhu, Packt Publishing, 2013. 
 2. (2016) Web Application Development with R Using Shiny, by Chris Beeley, Packt Publishing, 2013. 
 2. (2016) [London: The Information Capital](http://theinformationcapital.com/), by Jame Cheshire and Oliver Uberti, Penguin Books, 2014.
