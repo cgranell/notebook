@@ -3,7 +3,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014
 3. (...) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014
 2. (...) Akka in Action, by Raymond Roestenburg and Rob Bakker and rob Williams, Manning, 2015.
-3. (...) Why, by ...
+3. (2016) Why: A guide to finding and using causes, by Samantha Kleinberg. O’Reilly Media, 2015.
 4. (2016) Persiguiendo a Einstein, by Antonio Acín, Eduardo Acín. Materia, 2016
 4. (2016) Reactive Microservices Architecture, by Jonas Bonér. O’Reilly Media, 2016
 2. (2016) [Data Visualization with D3.js Cookbook](http://www.amazon.com/Data-Visualization-D3-js-Cookbook-Nick/dp/178216216X), by Nick Qi Zhu, Packt Publishing, 2013. 
