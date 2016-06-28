@@ -3,6 +3,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014
 3. (...) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014
 2. (...) Akka in Action, by Raymond Roestenburg and Rob Bakker and rob Williams, Manning, 2015.
+3. (2016) La Nueva Educación, by César Bona. Plaza Janés, 2015
 3. (2016) [Creative Schools](http://sirkenrobinson.com/creative-schools-the-grassroots-revolution-thats-transforming-education/), by [Ken Robinson](http://sirkenrobinson.com/), Penguin Random House, 2015
 3. (2016) Why: A guide to finding and using causes, by Samantha Kleinberg. O’Reilly Media, 2015.
 4. (2016) Persiguiendo a Einstein, by Antonio Acín, Eduardo Acín. Materia, 2016
