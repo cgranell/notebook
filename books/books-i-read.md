@@ -3,8 +3,8 @@
 3. (...) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014.
 1. (...) [Code and The City](https://www.routledge.com/Code-and-the-City/Kitchin-Perng/p/book/9781138922112), by Rob Kitchin and Sung-Yueh Perng, Routledge (Eds), 2016.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
-3. (...) Soñadores,: cuatro genios que cambiaron la Historia, by Cedric Villani and Edmond Baudoin, Astiberri, 2016.
-3. (...) Todos los niños pueden ser Einstein, by Fernando Alberga, Ediciones EL Toromítico, 2011.
+3. (2016) Soñadores,: cuatro genios que cambiaron la Historia, by Cedric Villani and Edmond Baudoin, Astiberri, 2016.
+3. (2016) Todos los niños pueden ser Einstein, by Fernando Alberga, Ediciones EL Toromítico, 2011.
 2. (2016) Akka in Action, by Raymond Roestenburg and Rob Bakker and Rob Williams, Manning, 2015.
 3. (2016) Los pilares de la tierras, by Ken Follet, ...
 3. (2016) La Nueva Educación, by César Bona. Plaza Janés, 2015
