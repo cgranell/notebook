@@ -2,7 +2,8 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Code and The City](https://www.routledge.com/Code-and-the-City/Kitchin-Perng/p/book/9781138922112), by Rob Kitchin and Sung-Yueh Perng, Routledge (Eds), 2016.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
-3. (2016) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014.3. (2016) 
+1. (2016) [The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life](http://yalebooks.com/book/9780300204803/city-tomorrow), by Carlo Ratti & Mattheu Claudel. Yale University Press, 2016.c
+3. (2016) Make: Getting started with Sensors, by Kimmo Karvinen & Tero Karvinen, Maker Media, 2014. 
 3. (2016) Build to Lead: how Lego bricks can make you a better leader, by Donna Denio and Dieter Reuther, O’Reilly Media, 2016.
 3. (2016) Soñadores: cuatro genios que cambiaron la Historia, by Cedric Villani and Edmond Baudoin, Astiberri, 2016.
 3. (2016) Todos los niños pueden ser Einstein, by Fernando Alberga, Ediciones EL Toromítico, 2011.
