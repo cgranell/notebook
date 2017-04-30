@@ -4,6 +4,7 @@
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 2. (...) Spatio-temporal Data Streams, by Zdravko Galic. Springer Briefs in Computer Science, 2016
 2. (...) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
+3. (2017) La Física del Futuro, by [Michio Kaku](http://mkaku.org/). Debate, 2011
 2. (2017) El camino del perro, by Sam Savage. Seix Barral Biblioteca Formentor, 2016.
 1. (2016) Big Data 2.0 Processing Systems: A survey, by Sherif Sakr. Springer Briefs Computer Science, 2016.
 1. (2016) [The City of Tomorrow: Sensors, Networks, Hackers, and the Future of Urban Life](http://yalebooks.com/book/9780300204803/city-tomorrow), by Carlo Ratti & Mattheu Claudel. Yale University Press, 2016.
