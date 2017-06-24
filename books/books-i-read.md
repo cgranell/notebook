@@ -4,6 +4,7 @@
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 2. (...) Spatio-temporal Data Streams, by Zdravko Galic. Springer Briefs in Computer Science, 2016
 2. (...) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
+3. (2017) Sabias. La cara oculta de la ciencia, by Adela Muñoz Paez. Debate, 2017
 3. (2017) La cadera de Eva, by Jose Enrique Campillo Alvarez. Booket Ciencia, 2016 
 3. (2017) Abuelo, ¿Como habeis consentido esto?, by Joaquin Estefania. PLaneta, 2017
 3. (2017) La Física del Futuro, by [Michio Kaku](http://mkaku.org/). Debate, 2011
