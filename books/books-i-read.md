@@ -2,8 +2,9 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Code and The City](https://www.routledge.com/Code-and-the-City/Kitchin-Perng/p/book/9781138922112), by Rob Kitchin and Sung-Yueh Perng, Routledge (Eds), 2016.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
-2. (...) Spatio-temporal Data Streams, by Zdravko Galic. Springer Briefs in Computer Science, 2016
 2. (...) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
+3. (2017) De que hablo cuando hablo de escribir, by Haruki Murakami. Tusquets, 2017
+2. (2017) Spatio-temporal Data Streams, by Zdravko Galic. Springer Briefs in Computer Science, 2016
 3. (2017) Sabias. La cara oculta de la ciencia, by Adela Muñoz Paez. Debate, 2017
 3. (2017) La cadera de Eva, by Jose Enrique Campillo Alvarez. Booket Ciencia, 2016 
 3. (2017) Abuelo, ¿Como habeis consentido esto?, by Joaquin Estefania. PLaneta, 2017
