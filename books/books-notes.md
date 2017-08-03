@@ -3,6 +3,17 @@
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
 
+## Mobile Sensors Context Aware Computing
+*Mobile Sensors and Context-aware Computing, by Manish J Gajjar*
+
+### The book in three sentences
+* Good introduction to background concepts such as context, context computign adn locatin based services
+* Practical guide to physical sensors, virtual sensors, and sensors hub (sensor fusion) in mobile computing
+* Cover many aspects (without excesive detail) when working on a context-aware mobile computing solution that involves hardware-software
+
+### Summary
+Depending on the level of details required, some parts of the book can be skipped (how physical sensors operate, etc.). Chapter 2 (Context-aware Computing) gives a short but consice introduction to basic concepts in mobile and context-aware computing. Chapter 6 (Software, firmwar and drivers) explains the Android Sensor Software Stack, worth a reading especially for programmers of mobile apps. Chapter 10 (Usability) shows a figure (10.3, pg 273) summarising the four key experiences based on context interactions: Know me, Free me, Link me, Express me. Next , it provides a short discussion on sensor-based user interaction (pg 282), and a series of tables summaring sensor usages in use cases (pg 292-296). Finally, Chapter 11 (Sensor Application Areas) covers a variety of application examples where sensor-based and context-aware computing can make a splash. Worth a reading the section about Augmented Reality (pg. 206 onwards). There, it differs between real-time context and passive/stored context when applying Augmented Reality context-aware systems to gaming, education and location-based services and applications.  
+
 ## R for spatial analysis
 *An Introduction to R for Spatial Analysis and Mapping, by Chris Brunsdon and Lex Comber*
 
