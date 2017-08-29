@@ -2,7 +2,18 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## Code and The City
+*Code and The City, edited by Rob Kitchin and Sung-Yueh Perng*
 
+### The book in three sentences
+* The book is the result of a 2014 workshop held in Ireland in the concet of the ERC Advance Grant "The Programmable City"
+* The underlying idea is to explore the relationship between code and urban space, leading to the concept of code/space, wherein code is essential to a space being produced as intended, as happens in much of the city space that is produce as code/space. 
+* Chapters are gouoped into three sections: (i) *Code, codings , infrastructure and cities* considers the realtionship between code and the cty in a broad sende; (ii) *Locative social media and mobile computing* considers the relatioship betwwen code, locative media and mobile computing, focusing on how smartphones are mediating how people interact with the city and each other; and (iii) *Governance, politics and knowledge* examines the urban politics of code.
+
+### Summary
+Chapters can be read individually. I commented here some of them, especially relevent for my interests. While Chapter 1 is the introduction to the whole book, chapter 2 is a relevant reading to realise of the importance of exploring the relationship between code, urban space and citizens. Its line of argumentatio is scientifically sound going from simple to more complex and realistic conceptual framework for programmable urbanism. CHapter 3 *The Internet of Urban Things* gives a good overvie of IoT adn Web of thing, paying attention to the temporal dynamics of things. Chapter 4 *Interfacing urban intelligence* calls for rethinking what type of "urban interfaces" we want.
+
+Chapter 8 *Feeling the place* refers to the concepts of space/place and attachement of place (Manuel's thesis). Chapter 10 provides a theoretical model and multilayyered approach to mobile computing, focusin in particular on (location-based) moving applications. Chapter 11 presents a selfie exploratory visualisation tool which can be relevent of our own (spatial visualisation) projects. And Chapter 16 gives a gentle introduction to the geodemograhic field   
 ## Mobile Sensors Context Aware Computing
 *Mobile Sensors and Context-aware Computing, by Manish J Gajjar*
 

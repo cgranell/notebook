@@ -1,8 +1,8 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
-1. (...) [Code and The City](https://www.routledge.com/Code-and-the-City/Kitchin-Perng/p/book/9781138922112), by Rob Kitchin and Sung-Yueh Perng, Routledge (Eds), 2016.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 2. (...) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
+1. (2017) [Code and The City](https://www.routledge.com/Code-and-the-City/Kitchin-Perng/p/book/9781138922112), by Rob Kitchin and Sung-Yueh Perng, Routledge (Eds), 2016. See [notes](books-notes.md#code-and-the-city)
 3. (2017) Mobile Sensors and Context-aware Computing, by Manish J. Gajjar. Morgan Hauffmann Publishers, 2017. See [notes](books-notes.md#mobile-sensors-context-aware-computing)
 3. (2017) De que hablo cuando hablo de escribir, by Haruki Murakami. Tusquets, 2017
 2. (2017) Spatio-temporal Data Streams, by Zdravko Galic. Springer Briefs in Computer Science, 2016
