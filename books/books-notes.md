@@ -2,6 +2,22 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+
+## Research in the wild
+*Research in the wild, by Yvonne Rogers and Paul Marshall*
+
+### The book in three sentences
+* Research in the wild is about **theorising about people's everyday use and interaction with technology and their environment**.
+*  Generic Framework made up of technology, desing, *in situ* studies, and theory, to conducting innovative research in the wild. 
+*  Through three real-word case studies, the framework is operationalised, and practical challenges, obstacles adn ethcial issues discussed
+*  
+### Summary
+* First two chapters set the context, going from "cognition in the wild" to "research in the wild". The authors stated that this transation is needed to "rethink theory more broadly, both at macro and micro level of analyses, to account for how people are using, relying on, and appropiating the diversity of technologies that have become suffused in their lives." (pg 17-18). 
+* Chapter 3 overviews approaches to conducting research in the wild, in which  the focus is on how to engage a community so they can participate in the project and be able to see the value of the technology intervention.
+* Typically, research in the wild uses a mix of quantitative and qualitative methods, to glean subjective, aggregate findings over time and space over groups of people. A challenge in designing technology in the wild is how to design it to be noticeable, approachable and obvious what to do
+* Chapter 4 reports three in-depth studies to illustrate how different methods and approaches work together. These studies are framed according to the conceptual framework.
+* Last chapter (5) discusses the extra work that's needed behind the scenes to conducting research in the wild, and how to deal with unforeseen challenges, obstacles and uncertainties. 
+
 ## Code and The City
 *Code and The City, edited by Rob Kitchin and Sung-Yueh Perng*
 
