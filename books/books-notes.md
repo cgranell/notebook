@@ -6,9 +6,11 @@ This is a partial list of my book summaries chronologically ordered by when I re
 *Space and place: The perspective of experience, by Yi-Fu Tuan*
 
 ### The book in three sentences
-* Human beings require both space and place. Open space has no fixed pattern of established human meaning. When space feels familiar to us, it becomes places. Indeed, place can be defined in a variety of ways: place is whatever stable object catches out attention. Or place is an organised world of meaning, too
+* Human beings require both space and place. Open space has no fixed pattern of established human meaning. Mythical space is an intellectual construct, it is a response of feeling adn imagination to fundamental human needs.  
+* When space feels familiar to us, it becomes places. Indeed, place can be defined in a variety of ways: place is whatever stable object catches out attention. Or place is an organised world of meaning, too
 * The built environment clarifies social roles and relations. Like language, the built environment has the power to define and refine sensibility. Architectural space continues to articulate social order. Modern built environment even maintains a teaching function. Architecture continues to exert a direct impact on the senses and feelings
-*  Spatial ability precedes spatial knowledge. 
+*  Spatial ability precedes spatial knowledge. Intimate experiences are difficult to make public. 
+*  How time and place are related is an intrincate problem that invites different approaches: time as motion or flow and place as a pause in the temporal current; attachment to place as a function of time, as in "it takes time to know a place"; adn place as time made visibe, or place as memorial to times past.
 
 
 ## Research in the wild
