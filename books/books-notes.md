@@ -2,6 +2,14 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## Space and place
+*Space and place: The perspective of experience, by Yi-Fu Tuan*
+
+### The book in three sentences
+* Human beings require both space and place. Open space has no fixed pattern of established human meaning. When space feels familiar to us, it becomes places. Indeed, place can be defined in a variety of ways: place is whatever stable object catches out attention. Or place is an organised world of meaning, too
+* The built environment clarifies social roles and relations. Like language, the built environment has the power to define and refine sensibility. Architectural space continues to articulate social order. Modern built environment even maintains a teaching function. Architecture continues to exert a direct impact on the senses and feelings
+*  Spatial ability precedes spatial knowledge. 
+
 
 ## Research in the wild
 *Research in the wild, by Yvonne Rogers and Paul Marshall*
@@ -10,7 +18,7 @@ This is a partial list of my book summaries chronologically ordered by when I re
 * Research in the wild is about **theorising about people's everyday use and interaction with technology and their environment**.
 *  Generic Framework made up of technology, desing, *in situ* studies, and theory, to conducting innovative research in the wild. 
 *  Through three real-word case studies, the framework is operationalised, and practical challenges, obstacles adn ethcial issues discussed
-*  
+  
 ### Summary
 * First two chapters set the context, going from "cognition in the wild" to "research in the wild". The authors stated that this transation is needed to "rethink theory more broadly, both at macro and micro level of analyses, to account for how people are using, relying on, and appropiating the diversity of technologies that have become suffused in their lives." (pg 17-18). 
 * Chapter 3 overviews approaches to conducting research in the wild, in which  the focus is on how to engage a community so they can participate in the project and be able to see the value of the technology intervention.
