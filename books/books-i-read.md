@@ -1,7 +1,8 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
-3. (...) Spatial Media Data 
+3. (...) Spatial Media Data
+4. (2018) Morir joven, a los 140, by Maria Blasco and Monica Salomone, Paidós, 2016 
 2. (2018) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
 3. (2018) El Principito, by Antoine de Sanit-Exupery. Enrique Sainz Editores, 1984.
 3. (2018) Space and Place: Perspective of Experience, by Yi-Fu Tuan. University of Minnesota Press, 1977. See [notes](books-notes.md#space-and-place) 
