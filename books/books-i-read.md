@@ -2,7 +2,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 3. (...) Spatial Media Data
-4. (...) (h)adas. Mujeres que crean, programan, prosumen, teclean, by Remedios Zafra. Paginas de Espuma, 2013
+4. (2018) (h)adas. Mujeres que crean, programan, prosumen, teclean, by Remedios Zafra. Paginas de Espuma, 2013
 4. (2018) Morir joven, a los 140, by Maria Blasco and Mónica Salomone. Paidós, 2016 
 2. (2018) [Humanities Data in R](http://humanitiesdata.org/), by Taylor Arnold and Lauren Tilton. Springer, 2015
 3. (2018) El Principito, by Antoine de Sanit-Exupery. Enrique Sainz Editores, 1984.
