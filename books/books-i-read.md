@@ -2,7 +2,8 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 3. (...) Spatial Media Data...
-1. (...) Location-based mobile games
+1. (2018) [Neurociencia para educadores](http://enlaupea.com/david-bueno.html), by David Bueno. OCTAQ|#OCTAEDRO FONDO, 2017 
+1. (2018) [Location-Based Mobile Games. Design and Perspectives](https://www.springer.com/la/book/9783319752556), by Davide Spallazzo and Ilaria Mariani. Springer Briefs in Applied Sciences and Technology, 2018
 1. (...) Built Environment and public health
 4. (2018) Cómo hablar para que sus hijos le escuchen y cómo escuchar para que sus hijos le hablen, by Adele Faber & Elaine Mazlish. Ediciones Medici, 2007
 4. (2018) (h)adas. Mujeres que crean, programan, prosumen, teclean, by Remedios Zafra. Paginas de Espuma, 2013
