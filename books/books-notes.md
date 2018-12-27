@@ -9,7 +9,8 @@ This is a partial list of my book summaries chronologically ordered by when I re
 * **Deep Work**: Activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create value, improve your skill, and are hard to replicate.
 * **Shallow Work**: Noncognitively demanding, logistical-style tasks, often perfeormed while distracted. These efforts tend to not create much new value ans are easy to replicate. 
 * Core abilities to perform deep work are 1/ to quickly master hard things, and 2/ to produce at an elite level, in terms of quality and speed. Sumarising, high-quality work produced = (time spent) x (intensity of focus). 
-* Deep work builds on values like auality, craftmanship aand mastery, and it is wuill suited to geberate a flow state
+* Deep work builds on values like quality, craftmanship and mastery, and it is well suited to generate a [flow state](#fluir).
+* Rule #1 Work Deeply. How to reduce the confict of working deeply in a shallow world?
 
 
 ## Space and place
