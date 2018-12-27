@@ -2,6 +2,13 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## Deep wqork
+*Deep Work, by Cal Newport*
+
+### The book in three sentences
+* **Deep Work**: Activities performed in a state of distraction-free concentration that push your cognitive capabilities to their limit. These efforts create value, improve your skill, and are hard to replicate.
+* **Shallow Work**: Noncognitively demanding, logistical-style tasks, often perfeormed while distracted. These efforts tend to not create much new value ans are easy to replicate. 
+
 ## Space and place
 *Space and place: The perspective of experience, by Yi-Fu Tuan*
 
