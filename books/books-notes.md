@@ -14,11 +14,11 @@ This is a partial list of my book summaries chronologically ordered by when I re
 * Core abilities to perform deep work are 1/ to quickly master hard things, and 2/ to produce at an elite level, in terms of quality and speed. Sumarising, high-quality work produced = (time spent) x (intensity of focus). 
 * Deep work builds on values like quality, craftmanship and mastery, and it is well suited to generate a [flow state](#fluir).
 * Rule #1 **Work deeply**. How to reduce the confict of working deeply in a shallow world? 
-  * Strategies for integrating deep work into your workday in order to manage your limited wildpower: 1/ monastic (always in depth), 2/ Bimodal (tow long periods), 3/ rhythmic (rock-solid routines to get vith done on a regular basis, 4/ journalistic (any gap anytime without previous schedule).
+  * Strategies for integrating deep work into your workday in order to manage your limited wildpower: 1/ monastic (always in depth), 2/ Bimodal (tow long periods between depth and shallowness), 3/ rhythmic (rock-solid routines to get bits done on a regular basis), 4/ journalistic (any gap anytime without previous schedule).
   * Build rituals to start deep work sessions and also to end workday (see "be lazy").
   * Grand gesture: by doing a radical change to your normal environment, you increase the perceived importance of the deep work task. 
   * Collaborative deep work: hub-and-spoke model to balance and optimise separatedly serendipituos encounters and deep work efforts.
-  * I know the *what* but not the *how*: 1/ focus on the wildly important (a small number of ambitious goals), 2/ act on lead measures (time spent in deep work dedicated to the above goals), 3/ keep a compelling scoreboard (register deep work hours), 4/ create a cadence of accountability (weekly review scoreboard) 
+  * I know the *what* but not the *how*: 1/ focus on the wildly important (a small number of ambitious goals), 2/ act on lead measures (time spent in deep work dedicated to the above goals), 3/ keep a compelling scoreboard (register deep work hours), 4/ create a cadence of accountability (weekly review scoreboard). 
   * Be lazy: idleness is necessary to getting any work done, by maintaining a strict endpoint to your workday. Regularly resting your brain improves the quality of your deep work. Shutdown ritual during last quarter of work day and end with "shutdowm complete". 
 * Rule #2 Embrace boredom.
 * Rule #3 Quit social media.
