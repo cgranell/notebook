@@ -23,6 +23,7 @@ This is a partial list of my book summaries chronologically ordered by when I re
 * Rule #2 Embrace boredom.
 * Rule #3 Quit social media.
 * Rule #4 Drain the shallows.
+
 [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 
 ## Space and place
