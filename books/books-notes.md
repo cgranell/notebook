@@ -13,7 +13,10 @@ This is a partial list of my book summaries chronologically ordered by when I re
 ### Summary
 * Core abilities to perform deep work are 1/ to quickly master hard things, and 2/ to produce at an elite level, in terms of quality and speed. Sumarising, high-quality work produced = (time spent) x (intensity of focus). 
 * Deep work builds on values like quality, craftmanship and mastery, and it is well suited to generate a [flow state](#fluir).
-* Rule #1 Work Deeply. How to reduce the confict of working deeply in a shallow world?
+* Rule #1 Work Deeply. How to reduce the confict of working deeply in a shallow world? 
+  * Strategies for integrating deep work into your workday in order to manage your limited wildpower: 1/ monastic (always in depth), 2/ Bimodal (tow long periods), 3/ rhythmic (rock-solid routines to get vith done on a regular basis, 4/ Journalistic (any gap anytime without previous schedule).
+  * Build rituals to start deep work sessions.
+  * Grand gesture: by doing a radical change to your normal environment, you increase the perceived importance of the deep work task. 
 
 
 ## Space and place
