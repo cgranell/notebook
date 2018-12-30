@@ -21,6 +21,10 @@ This is a partial list of my book summaries chronologically ordered by when I re
   * I know the *what* but not the *how*: 1/ focus on the wildly important (a small number of ambitious goals), 2/ act on lead measures (time spent in deep work dedicated to the above goals), 3/ keep a compelling scoreboard (register deep work hours), 4/ create a cadence of accountability (weekly review scoreboard). 
   * Be lazy: idleness is necessary to getting any work done, by maintaining a strict endpoint to your workday. Regularly resting your brain improves the quality of your deep work. Shutdown ritual during last quarter of work day and end with "shutdowm complete". 
 * Rule #2 Embrace boredom.
+  * The ability to concentrate intensily is a skill that must be trained. So, deep work habit requires training to 1/ concentrate deeply, and 2/ overcome the desire for distraction. How? some strategies below:  
+  * Schedule the occasional breaks from focus yo give in to districation, adn not the other way arround 
+  
+  
 * Rule #3 Quit social media.
 * Rule #4 Drain the shallows.
 
