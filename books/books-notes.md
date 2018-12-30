@@ -20,15 +20,18 @@ This is a partial list of my book summaries chronologically ordered by when I re
   * Collaborative deep work: hub-and-spoke model to balance and optimise separatedly serendipituos encounters and deep work efforts.
   * I know the *what* but not the *how*: 1/ focus on the wildly important (a small number of ambitious goals), 2/ act on lead measures (time spent in deep work dedicated to the above goals), 3/ keep a compelling scoreboard (register deep work hours), 4/ create a cadence of accountability (weekly review scoreboard). 
   * Be lazy: idleness is necessary to getting any work done, by maintaining a strict endpoint to your workday. Regularly resting your brain improves the quality of your deep work. Shutdown ritual during last quarter of work day and end with "shutdowm complete". 
-* Rule #2 Embrace boredom.
+
+* Rule #2 **Embrace boredom**.
   * The ability to concentrate intensily is a skill that must be trained. So, deep work habit requires training to 1/ concentrate deeply, and 2/ overcome the desire for distraction. How? some strategies below:  
   * Schedule the occasional breaks from focus yo give in to distraction, and not the other way around.
   * Schedule internet use at home as well as at work can improve your concentration training
   * Set a hard deadline to work with a deep task (that would reduce drasticaly the expeted time to do it). Plan this once a week.
   * Meditate productively while you're occupied physically but not mentally (walking, etc.). It's a cycled process: 1/ review relevant *variables* for sovling the probvlem, 2/ define *next-step questions* to answer using these varaibles, 3/ to consolidate your gains by reviewing the answers you identified.
   
-* Rule #3 Quit social media. 
-* Rule #4 Drain the shallows.
+* Rule #3 **Quit social media**.
+  * To reduce the impact of network tools on your ability to perform deep work, but at the same give your brain a quality alternative  during leisure hours.
+  
+* Rule #4 **Drain the shallows**.
 
 [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
 
