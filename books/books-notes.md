@@ -32,8 +32,8 @@ This is a partial list of my book summaries chronologically ordered by when I re
   * To reduce the impact of network tools on your ability to perform deep work, but at the same give your brain a quality alternative  during leisure hours.
   
 * Rule #4 **Drain the shallows**.
-
-[The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/)
+  * Shallow work is inevitable, but you must keep it confined to a point where it doesn't impede your ability to take full advantage of deeper efforts. 
+  * Schedule every minute of your time, what the auther call *Fixed-schedule productivity*. An example is the guess blog [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/), by [Radhika Nagpal](https://www.radhikanagpal.org/).
 
 ## Space and place
 *Space and place: The perspective of experience, by Yi-Fu Tuan*
