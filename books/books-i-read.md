@@ -5,7 +5,7 @@
 1. (2018) [Deep Work](http://calnewport.com/), by Cal Newport. Grand Central Publishing, 1 edition, Jan 2016. See [notes](books-notes.md#deep-work) 
 1. (2018) [Neurociencia para educadores](http://enlaupea.com/david-bueno.html), by David Bueno. OCTAQ|#OCTAEDRO FONDO, 2017 
 1. (2018) [Location-Based Mobile Games. Design and Perspectives](https://www.springer.com/la/book/9783319752556), by Davide Spallazzo and Ilaria Mariani. Springer Briefs in Applied Sciences and Technology, 2018
-1. (2018) [The Built Environment and Public Health](https://www.wiley.com/en-us/The+Built+Environment+and+Public+Health-p-9780470620038), Russell P. Lopez. Willey, 2011. See [notes](books-notes.md#built-enviroment-and-public-health)
+1. (2018) [The Built Environment and Public Health](https://www.wiley.com/en-us/The+Built+Environment+and+Public+Health-p-9780470620038), Russell P. Lopez. Willey, 2011. See [notes](books-notes.md#built-environment-and-public-health)
 4. (2018) Cómo hablar para que sus hijos le escuchen y cómo escuchar para que sus hijos le hablen, by Adele Faber & Elaine Mazlish. Ediciones Medici, 2007
 4. (2018) (h)adas. Mujeres que crean, programan, prosumen, teclean, by Remedios Zafra. Paginas de Espuma, 2013
 4. (2018) Morir joven, a los 140, by Maria Blasco and Mónica Salomone. Paidós, 2016 
