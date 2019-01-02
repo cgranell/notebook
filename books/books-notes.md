@@ -36,6 +36,13 @@ This is a partial list of my book summaries chronologically ordered by when I re
   * Schedule every minute of your time, what the author calls *Fixed-schedule productivity*. An example is the guess blog [The Awesomest 7-Year Postdoc or: How I Learned to Stop Worrying and Love the Tenure-Track Faculty Life - Scientific American Blog Network](https://blogs.scientificamerican.com/guest-blog/the-awesomest-7-year-postdoc-or-how-i-learned-to-stop-worrying-and-love-the-tenure-track-faculty-life/), by [Radhika Nagpal](https://www.radhikanagpal.org/).
   * Become hard to reach. For example, 1/ make people who send you e-mail do more work (be more specific with their intentions). Even 2/ don't respond. Also 3/ do more work when you send or reply to e-mails, i..e, follwos a *process-centric approach* to send emails. This means to think on what is the project represented by the email message, and what is the most efficient process for bringing this project to a sucessful conclusion.
 
+## Built environment and public health
+*The Built Environment and Public Health, by Russell Lopez*
+
+### The book in three sentences
+
+### Summary
+
 ## Space and place
 *Space and place: The perspective of experience, by Yi-Fu Tuan*
 
