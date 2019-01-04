@@ -40,7 +40,8 @@ This is a partial list of my book summaries chronologically ordered by when I re
 *The Built Environment and Public Health, by Russell Lopez*
 
 ### The book in three sentences
-
+* As the urban space is the result of social processes ([Henri Lefebvre’s Theory of the Production of Space](https://monoskop.org/images/7/75/Lefebvre_Henri_The_Production_of_Space.pdf)), teh built environment reflect the interplay of economic, political and other factors, affecting also public health.
+*
 ### Summary
 
 ## Space and place
