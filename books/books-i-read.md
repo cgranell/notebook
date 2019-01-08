@@ -2,7 +2,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 3. (...) Spatial Media Data...
-1. (...) Armas de destrucción matemáticas
+1. (...) Armas de destrucción matemáticas: cómo bif data aumenta la desigualdad y amenaza la democracia, by Cathy O'Neil. Capitan Swing Libros, 2017. 
 1. (2018) [Deep Work](http://calnewport.com/), by Cal Newport. Grand Central Publishing, 1 edition, Jan 2016. See [notes](books-notes.md#deep-work) 
 1. (2018) [Neurociencia para educadores](http://enlaupea.com/david-bueno.html), by David Bueno. OCTAQ|#OCTAEDRO FONDO, 2017 
 1. (2018) [Location-Based Mobile Games. Design and Perspectives](https://www.springer.com/la/book/9783319752556), by Davide Spallazzo and Ilaria Mariani. Springer Briefs in Applied Sciences and Technology, 2018
