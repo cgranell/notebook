@@ -2,6 +2,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 3. (...) Spatial Media Data...
+1. (2019) [Homo Deus: Breve historia del mañana](https://www.amazon.es/Homo-Deus-Historia-History-Tomorrow/dp/194554094X/ref=asap_bc?ie=UTF8), by Yuval Noah Harari. Debate, 5th edition, Aug 2018.
 1. (2019) El algortimo de Ada, by James Essinger. Alba Trayectos, 2015. 
 1. (2019) Armas de destrucción matemáticas: cómo big data aumenta la desigualdad y amenaza la democracia, by Cathy O'Neil. Capitan Swing Libros, 2017. 
 1. (2018) [Deep Work](http://calnewport.com/), by Cal Newport. Grand Central Publishing, 1 edition, Jan 2016. See [notes](books-notes.md#deep-work) 
