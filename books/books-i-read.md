@@ -2,6 +2,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt, The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 3. (...) Spatial Media Data...
+1. (2019) [You, Your Child, and School](http://sirkenrobinson.com/you-your-child-and-school/), by Ken Robinson and Lou Aronica, 1st edition. Viking, 2018. 
 1. (2019) Mujeres de Ciencia - 50 intrepidas pioneras que cambiaron el mundo, by Rachel Ignotofsky. Nordicacomic, Oct 217
 1. (2019) [Homo Deus: Breve historia del mañana](https://www.amazon.es/Homo-Deus-Historia-History-Tomorrow/dp/194554094X/ref=asap_bc?ie=UTF8), by Yuval Noah Harari. Debate, 5th edition, Aug 2018.
 1. (2019) El algortimo de Ada, by James Essinger. Alba Trayectos, 2015. 
