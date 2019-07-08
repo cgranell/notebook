@@ -1,6 +1,7 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt. The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+1. (2019) What you need to know about Docker, by Scott GAllagher. Packt Publishing, 2016.
 3. (2019) Graph Databases, 2nd Edition, by Iam Robinson, Jum Webber & Emil Eifrem, O'Reily, 2015.
 1. (2019) Urban analytics, by Alex Singleton, Seth Spielman, adn David Folch. SAGE, 2018.
 1. (2019) [You, Your Child, and School](http://sirkenrobinson.com/you-your-child-and-school/), by Ken Robinson and Lou Aronica. Viking, 1st edition, 2018. 
