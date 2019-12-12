@@ -4,8 +4,8 @@
 1. (2019) Using Geodata & Geolocation in the Social Sciences, by David Abernathy. Sage Publications, 2017. 
 1. (2019) Where the Animals go...
 1. (2019) Historia del tiempo, by Stephen W. Hawking. Critca Drakontos, 4th edition, 2003.
-1. (2019) Decoding the Social World...
-1. (2019) Implementing Reproducible Research...
+1. (2019) Decoding the Social World, by Sandra González-Bailón. MIT Press, 2017.
+1. (2019) [Implementing Reproducible Research](https://osf.io/s9tya/), edited by Victoria Stodden, Friedrich Leisch, Roger D. Peng. CRC Press, 2014.
 1. (2019) What you need to know about Docker, by Scott GAllagher. Packt Publishing, 2016.
 3. (2019) Graph Databases, 2nd Edition, by Iam Robinson, Jum Webber & Emil Eifrem, O'Reily, 2015.
 1. (2019) Urban analytics, by Alex Singleton, Seth Spielman, and David Folch. SAGE, 2018.
