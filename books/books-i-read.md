@@ -1,10 +1,12 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt. The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
+1. (2020) The Uninhabitable Earth: Life after Warming, by David Wallace-Wells. Tim Duggan Books, 2019.
+1. (2000) Greta
 1. (2020) [A New City O/S: the power of distributed governance](https://anewcityos.org/), by Stephen Goldsmith & Neil Klein. Brookings Institution Press, 2017 
 1. (2019) Momentos estelares de la ciencia. by Isaac Asimov. Alianza Editorial, 2001.
 1. (2019) Using Geodata & Geolocation in the Social Sciences, by David Abernathy. Sage Publications, 2017. 
-1. (2019) [Where the Animals go](http://wheretheanimalsgo.com/), by James Cheshire & Olivier Uberti. Penguin Random House, 2018
+1. (2019) [Where the Animals go](http://wheretheanimalsgo.com/), by James Cheshire & Olivier Uberti. Penguin Random House, 2018.
 1. (2019) Historia del tiempo, by Stephen W. Hawking. Critca Drakontos, 4th edition, 2003.
 1. (2019) Decoding the Social World, by Sandra González-Bailón. MIT Press, 2017.
 1. (2019) [Implementing Reproducible Research](https://osf.io/s9tya/), edited by Victoria Stodden, Friedrich Leisch, Roger D. Peng. CRC Press, 2014.
