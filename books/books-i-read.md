@@ -2,7 +2,7 @@
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt. The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014
 1. (2020) The Uninhabitable Earth: Life after Warming, by David Wallace-Wells. Tim Duggan Books, 2019.
-1. (2000) Greta
+1. (2000) Nuestra casa está ardiendo, by Malena Ernman. Lumne, 2019.
 1. (2020) [A New City O/S: the power of distributed governance](https://anewcityos.org/), by Stephen Goldsmith & Neil Klein. Brookings Institution Press, 2017 
 1. (2019) Momentos estelares de la ciencia. by Isaac Asimov. Alianza Editorial, 2001.
 1. (2019) Using Geodata & Geolocation in the Social Sciences, by David Abernathy. Sage Publications, 2017. 
