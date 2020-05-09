@@ -1,6 +1,8 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt. The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
+1. (2020) Geocomputation with R, by Robin Lovelace, Jakub Nowosad, Jannes Muenchow. CRC Press, 2019.
+1. (2020) Data for the people: how to make our post-privacy economy work for yoy, Basic Books, 2017
 1. (2020) La economía del bien común, by Jean Tirole. Taurus, 2017
 1. (2020) The Uninhabitable Earth: Life after Warming, by David Wallace-Wells. Tim Duggan Books, 2019.
 1. (2000) Nuestra casa está ardiendo, by Malena Ernman. Lumne, 2019.
