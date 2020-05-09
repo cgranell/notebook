@@ -5,7 +5,7 @@
 1. (2020) Data for the people: how to make our post-privacy economy work for yoy, Basic Books, 2017
 1. (2020) La economía del bien común, by Jean Tirole. Taurus, 2017
 1. (2020) The Uninhabitable Earth: Life after Warming, by David Wallace-Wells. Tim Duggan Books, 2019.
-1. (2000) Nuestra casa está ardiendo, by Malena Ernman. Lumne, 2019.
+1. (2020) Nuestra casa está ardiendo, by Malena Ernman. Lumne, 2019.
 1. (2020) [A New City O/S: the power of distributed governance](https://anewcityos.org/), by Stephen Goldsmith & Neil Klein. Brookings Institution Press, 2017 
 1. (2019) Momentos estelares de la ciencia. by Isaac Asimov. Alianza Editorial, 2001.
 1. (2019) Using Geodata & Geolocation in the Social Sciences, by David Abernathy. Sage Publications, 2017. 
