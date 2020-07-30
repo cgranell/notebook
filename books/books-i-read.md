@@ -1,6 +1,7 @@
 # Books I read
 2. (...) Raspberry Pi: A Quick-Start Guide, 2nd Edition, by Maik Schmidt. The Pragmatic Bookshelf, 2014.
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
+1. (2020) No One at the Wheel, by Samuel I. Schwartz. PublicAffairs, 2018.
 1. (2020) Street Smart, by Samuel I. Schwartz. PublicAffairs, 2015.
 1. (2020) [Geocomputation with R](https://geocompr.robinlovelace.net/), by Robin Lovelace, Jakub Nowosad, Jannes Muenchow. CRC Press, 2019.
 1. (2020) [Data for the people: how to make our post-privacy economy work for you](https://www.basicbooks.com/titles/andreas-weigend/data-for-the-people/9780465096534/), Basic Books, 2017
