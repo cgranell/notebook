@@ -1,6 +1,6 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
-1. (...) Bit by Bit: Social research in the Digital Age, by Matthew J. Salganik. Princeton University Press, 2018
+1. (2020) Bit by Bit: Social research in the Digital Age, by Matthew J. Salganik. Princeton University Press, 2018
 1. (2020) No One at the Wheel, by Samuel I. Schwartz. PublicAffairs, 2018.
 1. (2020) Street Smart, by Samuel I. Schwartz. PublicAffairs, 2015.
 1. (2020) [Geocomputation with R](https://geocompr.robinlovelace.net/), by Robin Lovelace, Jakub Nowosad, Jannes Muenchow. CRC Press, 2019.
