@@ -1,6 +1,7 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
-1. () Lo que hacen los mejores profesores universitarios, by Ken Bain. PUV, 2nd edition, 2007. 
+1. () ¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza, by Hector Ruiz Martín. Graó, 2020. 
+1. (2020) Lo que hacen los mejores profesores universitarios, by Ken Bain. PUV, 2nd edition, 2007. 
 1. (2020) Bit by Bit: Social research in the Digital Age, by Matthew J. Salganik. Princeton University Press, 2018.
 1. (2020) No One at the Wheel, by Samuel I. Schwartz. PublicAffairs, 2018.
 1. (2020) Street Smart, by Samuel I. Schwartz. PublicAffairs, 2015.
