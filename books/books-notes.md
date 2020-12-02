@@ -2,6 +2,19 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## El mapa fantasma
+*El mapa fantasma, by Steven Johnson*
+* A Snow no le interesaban los fenómenos individuales y aislados, sino más bien las conexiones, el movimiento entre distintos ámbitos de la ciencia (pg 75).
+* La historia del brote de Broad Street se puede contar desde la escala de unos cientos de vida humanas, de una personas que bebían agua de un surtidor, que enfermamban y que morían a los poco días; pero al contar la historia de ese modo, se está limitando su perspectiva, su capacidad para ofrecer un relato completo de lo que sucedió (pg 101)
+* Intentaría encontrar el agente mortífero a través de una vía indirecta: observando los patrones de vida y muerte de las calles de Golden Square (pg 105)
+* Para que un mapa pudiera explicar la verdadera causa originaria del brote de Borad Steet, era necesario que mostrara poca, no mucha información (pg 189)
+* El mapa se ha convertido en el símbolo distintivo del brote de Broad Street en su totalidad. Pero, en cierto modo, se ha malinterpretado su importancia (pg 191)
+* Parte de la inovación del mapa de Snow residía en qeu relacionaba la vanguardia del diseño de información con una teoría sobre la transmisión del cólera válida en términos científicos. Lo importante no era la técnica cartográfica, sino la ciencia subyacente que desvelaba el mapa.
+* La originalidad del mapa residía en la circunferencia amorfa que enmarcaba el brote (el diagrama de Voronoi)
+* El hecho de ver patrones de vida y de muerte en forma cartográfica aporta una perspectiva profundamente instructiva (pg 214)
+* El brote de Broad Street fue importante porque una persona había estudiado el estado de la vida urbana por primera vez (pg 229)
+* [UCLA's John Snow web archive](https://www.ph.ucla.edu/epi/snow.html)
+
 ## Deep work
 *Deep Work, by Cal Newport*
 
