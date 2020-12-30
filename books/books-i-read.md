@@ -1,5 +1,6 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
+1. (2020) The Game, by Alessandro Baricco. Anagrama, 2019.
 1. (2020) [El mapa fantasma: La epidemia que cambió la ciencia, las ciudades y el mundo](https://capitanswing.com/libros/el-mapa-fantasma/), by Steven Johnson. Capitán Swing, 2020. See [notes](books-notes.md#el-mapa-fantasma)
 1. (2020) ¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza, by Hector Ruiz Martín. Graó, 2020. 
 1. (2020) Lo que hacen los mejores profesores universitarios, by Ken Bain. PUV, 2nd edition, 2007. 
