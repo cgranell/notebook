@@ -2,6 +2,18 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## The game
+*The game, by Alessandro Baricco*
+
+* 'Puedes intentar cambiar la cabeza de la gente, pero será una pérdida de tiempo. Cambia las herramientas que utilizan y cambiarás el mundo', frase de Stewart Brand que resume el mensaje esencial del **ultramundo de la civilización digital**.
+* La insurrección digital, para luchar contra la cultura dominante del s XX, los sacerdotes y las élites, deriva en un nuevo sistema, lleno de contradicciones y paradojas, enormemente inestable y lábil, pero que ha de perdurar en el tiempo toda vez que ya se ha institucionalizado de alguna manera.
+* El sistema se llama **The Game** y no tiene ideología, ni ética ni estética, pues es solo el resultado de soluciones prácticas a problemas concretos, no de complicados conceptos ni de abstracciones mentales sobre la naturaleza. Los principios clásicos, los valores y las creencias, han sido sustituidos por los instrumentos que nos permiten crear ese ultramundo que convive, compite, se complementa y se relaciona con el mundo de antaño. 
+* La complejidad escondida por debajo y arriba un icono simple para hacer clic.
+* Las herramientas qeu han conseguido cambiar el mundo son antes que nada divertidas. The Game es en realidad el corazón mismo del sistema, en el que perecen las reglas de la Ilustración. Se trata, eso sí, de un sistema muy inestable “en el que nos vemos obligados a vivir con verdades quebradizas, siempre en movimiento, condenadas a un territorio tortuoso”. 
+* (En la verdades-rápidas) vale más una verdad inexacta, pero con un diseño (storytelling) adecuado para cruzar el Game, que una verdad exacta pero lenta en su movimiento.
+* La inexactitud asegura el movimiento. Porque una solución más perfecta, elegante o justa que no consigo explicar a la gente está destinada al fracaso.
+
+
 ## El mapa fantasma
 *El mapa fantasma, by Steven Johnson*
 * A Snow no le interesaban los fenómenos individuales y aislados, sino más bien las conexiones, el movimiento entre distintos ámbitos de la ciencia (pg 75).
