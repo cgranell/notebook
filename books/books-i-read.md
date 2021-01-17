@@ -1,5 +1,11 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
+1. (...) El País de los Sueños Perdidos: Historia de la ciencia en España, by José Manuel Sánchez Ron. Taurus, 2020
+1. (...) Small Teaching. Everyday Lessons from the Science of Learning, by James M. Lang. Jossey-Bass, 2016. 
+1. (...) Understanding Mobility As a Service, by David A. Hensher et al. Elsevier, 2020
+1. (...) The Master Algorithm, by Pedros Domingos. Penguin Books, 2015
+1. (...) El infinito en un junco: La invención de los libros del mundo  antiguos, by Irene Vallejo. Siruela, 2019.
+1. (2021) Historias de dos ciudades, by Charles Dicker. El Pais Aventuras, 2004.
 1. (2020) The Game, by Alessandro Baricco. Anagrama, 2019. See [notes](books-notes.md#the-game)
 1. (2020) [El mapa fantasma: La epidemia que cambió la ciencia, las ciudades y el mundo](https://capitanswing.com/libros/el-mapa-fantasma/), by Steven Johnson. Capitán Swing, 2020. See [notes](books-notes.md#el-mapa-fantasma)
 1. (2020) ¿Cómo aprendemos? Una aproximación científica al aprendizaje y la enseñanza, by Hector Ruiz Martín. Graó, 2020. 
