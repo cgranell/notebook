@@ -4,7 +4,7 @@
 1. (...) Small Teaching. Everyday Lessons from the Science of Learning, by James M. Lang. Jossey-Bass, 2016. 
 1. (...) Understanding Mobility As a Service, by David A. Hensher et al. Elsevier, 2020
 1. (...) The Master Algorithm, by Pedros Domingos. Penguin Books, 2015
-1. (...) El infinito en un junco: La invención de los libros del mundo  antiguos, by Irene Vallejo. Siruela, 2019.
+1. (2021) El infinito en un junco: La invención de los libros del mundo antiguo, by Irene Vallejo. Siruela, 2019.
 1. (...) [Teaching Tech Together](https://teachtogether.tech/), by Gregg Wilson. Taylor & Francis, 2019.
 1. (2021) Historias de dos ciudades, by Charles Dicker. El Pais Aventuras, 2004.
 1. (2020) The Game, by Alessandro Baricco. Anagrama, 2019. See [notes](books-notes.md#the-game)
