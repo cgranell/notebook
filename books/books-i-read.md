@@ -7,7 +7,7 @@
 4. (...) The Master Algorithm, by Pedros Domingos. Penguin Books, 2015.
 5. (2021) [Mastering Shiny](https://mastering-shiny.org/index.html), by Hadley Wickham. O'Really, 2021. 
 6. (2021) El infinito en un junco: La invención de los libros del mundo antiguo, by Irene Vallejo. Siruela, 2019.
-7. (...) [Teaching Tech Together](https://teachtogether.tech/), by Gregg Wilson. Taylor & Francis, 2019.
+7. (2021) [Teaching Tech Together](https://teachtogether.tech/), by Gregg Wilson. Taylor & Francis, 2019.
 8. (2021) Historias de dos ciudades, by Charles Dicker. El Pais Aventuras, 2004.
 9. (2020) The Game, by Alessandro Baricco. Anagrama, 2019. See [notes](books-notes.md#the-game)
 10. (2020) [El mapa fantasma: La epidemia que cambió la ciencia, las ciudades y el mundo](https://capitanswing.com/libros/el-mapa-fantasma/), by Steven Johnson. Capitán Swing, 2020. See [notes](books-notes.md#el-mapa-fantasma)
