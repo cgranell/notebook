@@ -1,6 +1,6 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
-1. (...) Understanding Mobility As a Service, by David A. Hensher et al. Elsevier, 2020
+1. (2022) Understanding Mobility As a Service, by David A. Hensher et al. Elsevier, 2020
 2. (2022) No-cosas, by Byung-Chul Han. Penguin Random House, 2021.
 3. (2022) [A World Without Email](https://www.calnewport.com/books/a-world-without-email/), by Cal Newport. Penguin Business, 2021.
 4. (2022) [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/), by Yihui Xie, Christophe Dervieux, Emily Riederer. Chapman & Hall/CRC, 2022.
