@@ -2,6 +2,28 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+
+## Hola mundo
+*Hola mundo, by Hannah Fry*
+
+* Capítulos: Poder, Datos, Justicia, Medicina, Coches, Delincuencia, Arte
+
+* algoritmo: conjunto ordenado y finito de operacions que permite hallar la solución de un problema.
+* Tipos de tareas que realizan: 
+  * prioritación: hacer una lista ordenada
+  * clasificaión: seleccionar una categoría
+  * asociación: encontrar vínculos 
+  * filtrado: asilar lo importante
+
+* Paradigmas algorítmicos:
+  * algoritmos basados en reglas. Reglas o instrucciones directas construidas por un humano.
+  * algoritmos de aprendizaje automático. Enseñar a un perro a chocar los cincos. No hay una lista de instrucciones, sino un objetivo o idea clara de lo que haga y un sistema de recomensas cuando haga lo correcto.    
+
+* Falso negativo. Dejar libre a un Darth Vader es un tipo de error cuando no se logra indentificar el riesgo que representa un individua (justicia)
+* Falso positivo: Encarcelar a Luke Skywalker pasa cuando el algoritmo identifica incorrectamente a alguien como un individuo de alto riesgo (justicoa
+
+* Los humanos somos realmente buenos a la hora de interpretar sutilezas, analizar contextos, aplicar experiencia y diferenciar patrones. En cambio, se nos da francamente mal prestar atención, ser precisos, coherentes y plenamente conscientes de nuestro entorno. En resumen: nuestro conjunto de habilidades es justo el opuesto al de los algoritmos. 
+
 ## The game
 *The game, by Alessandro Baricco*
 
