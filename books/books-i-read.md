@@ -1,6 +1,6 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
-2. (2023) Hola Mundo, by Hannah Fry. Blackie Books, 2019.
+2. (2023) Hola Mundo, by Hannah Fry. Blackie Books, 2019. See [notes](books-notes.md#hola-mundo).
 3. (2023) [El callejero](https://capitanswing.com/libros/el-callejero/), by Deirdre Mask. Capitán Swing, 2023.
 4. (2023) La trastienda de la ciencia, by Miguel Ángel Sabadell. Gudalmazán, 2020.
 5. (2023) Sedados: Cómo el capitalismo moderno creó la cirsis de salud mental, by James Davies. Capitán Swing, 2022.
