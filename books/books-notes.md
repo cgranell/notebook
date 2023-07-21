@@ -2,6 +2,10 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## Cretinos digitales
+*La fabrica de cretinos digitales, by Michel Desmurget*
+
+* 
 
 ## Hola mundo
 *Hola mundo, by Hannah Fry*
