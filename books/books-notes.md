@@ -5,7 +5,9 @@ This is a partial list of my book summaries chronologically ordered by when I re
 ## Cretinos digitales
 *La fabrica de cretinos digitales, by Michel Desmurget*
 
-* 
+* No es lo mismo ciencia que opinión. Opiniones nacen de nuestra experiencia personal. El problema viene cuando se equipara opinión con sabiduría. Existe una ruptura entre conocimiento común (basado en sensaciones subjectivas) y conocimiento científico (apoyado en hechos controlados).
+* Cuando el niño pregunte que por qué no tiene derecho a las pantallas, hay que explicarle que quizá los padres de sus compañeros no han estudiado bien este problema: las pantallas tienen consecuencias negativas para su cerebro, su inteligencia, su capacidad de concentración, sus resultados académicos, su salud, etc.
+* Mientras nosotros dormimos, nuestro cerebro trabaja. No dormimos para descansar, dormimos poruqe hay tareas que nuestro cerebro no puede realizar cuando estamos activos. Es como una tienda en rebajas, de día es un caos, pero no noche los empleados ponen todo en orden para el día siguiente. Cuando dormimos, el cerebro se ve liberado y puede dedicarse a operaciones fundamentales de mantenimiento: el cuerpo se repara, los recuerdos se clasifican, los aprendizajes se consolidan...  
 
 ## Hola mundo
 *Hola mundo, by Hannah Fry*
