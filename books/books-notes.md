@@ -2,6 +2,15 @@
 
 This is a partial list of my book summaries chronologically ordered by when I read them. In recent summaries I start by explaining the book in three sentences, then pots a list of key ideas, sentences and lessons from the book.
 
+## Ciudades hambrientas
+*Ciudades hambrientas, by Carolyn Steel*
+
+* Observe el plano de cualquier ciudad construida antes de la existencia del ferrocarril y podrá rastrear la influencia de la comida. Está grabada en la anatomía de todos los planos urbanísticos anteriores a la Revolución Industrial: todas las ciudades tienen el mercado en el centro y hay caminos que llevan hasta él como arterias que trasportaban el torrente sanguíneo.
+* "Desierto de alimentos": a medida que los comercios locales van cerrando (por las ciudades-supermercados), se están quedando sin fuente alguna de alimentos frescos.
+* En nuestra sociedad industrializada y urbanizada, cocinar es la única oportunidad que tenemos la mayoría de ejercer algún control sobre lo que comemos: es el punto crucial de la cadena alimentaria.
+* Vivimos en una sociedad de consumo en la que todo es desechable, no porque se hayan deteriorado, sino porque han alcanzado su "fecha de caducidad" *cultural*. Es decir, hemos perdido la capacidad de diferenciar entre valor material y valor aplicado.
+* Si queremos construir ciudades auténticamente verdes, tenemos que repensar no solo su forma física, sino también la forma en que se alimentan.
+
 ## Cretinos digitales
 *La fabrica de cretinos digitales, by Michel Desmurget*
 
