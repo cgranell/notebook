@@ -1,7 +1,7 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
 2. (...) Distracted, by Jame M- Lang. Basic Books, 2020
-3. (2024) Slow productivity, by Cal Newport. ênguin, 2024.
+3. (2024) Slow productivity, by Cal Newport. Penguin, 2024.
 4. (2024) Ciudades hambrientas, by Carolyn Steel. Capitán Swing, 2020. See [notes](books-notes.md#ciudades-hambrientas).
 5. (2024) Acontece que no es poco, by Nieves Concostrina. La Esfera de los Libros, 2023.
 6. (2024) Una vida en nuestro planeta, by David Attenborough. Drakontos, 2021.
