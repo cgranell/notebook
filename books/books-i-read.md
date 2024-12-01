@@ -1,7 +1,7 @@
 # Books I read
 1. (...) [Geospatial Analysis: a comprehensive guide to principles, techniques and software tools](http://www.spatialanalysisonline.com/), by Michael de Smith, Mike Goodchild, and Paul Longley, 5th edition, Dec 2014.
 2. (...) Distracted, by Jame M- Lang. Basic Books, 2020.
-3. (2024) How humnas judge machines, by César A. Hidalgo. The MIT Press, 2011.
+3. (2024) How humans judge machines, by César A. Hidalgo. The MIT Press, 2011.
 4. (2024) No todo vale: ¿Qué hace un científico hablando de ética?, by Lluís Montoliu. Next Door Publisher, 2024 
 5. (2024) Capital fósil, by Andreas Malm.  Capitán Swing, 2023.
 6. (2024) Slow productivity, by Cal Newport. Penguin, 2024.
